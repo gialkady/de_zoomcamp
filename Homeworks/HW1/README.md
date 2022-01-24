@@ -15,9 +15,9 @@ To get the version, run `gcloud --version`
 
 Create an account in Google Cloud and create a project.
 
-Project name: My First Project
-Project number:280442394302
-Project ID:elite-thunder-339103
+- Project name: My First Project
+- Project number:280442394302
+- Project ID:elite-thunder-339103
 
 ## Question 2. Terraform 
 
@@ -56,7 +56,10 @@ Download this data and put it to Postgres
 How many taxi trips were there on January 15?
 
 Consider only trips that started on January 15.
-**Answer** =
+
+![img](https://github.com/gialkady/de_zoomcamp/blob/main/Homeworks/HW1/images/Question%203.%20Count%20records.png)
+
+**Answer** = 53024
 
 ## Question 4. Largest tip for each day
 
@@ -67,6 +70,9 @@ Use the pick up time for your calculations.
 
 (note: it's not a typo, it's "tip", not "trip")
 
+![img](https://github.com/gialkady/de_zoomcamp/blob/main/Homeworks/HW1/images/Question%204.%20Largest%20tip%20for%20each%20day.png)
+
+**Answer** = 2021-01-20
 
 ## Question 5. Most popular destination
 
@@ -77,6 +83,7 @@ Use the pick up time for your calculations.
 
 Enter the zone name (not id). If the zone name is unknown (missing), write "Unknown" 
 
+![img](https://github.com/gialkady/de_zoomcamp/blob/main/Homeworks/HW1/images/Question%205.%20Most%20popular%20destination.png)
 
 ## Question 6. Most expensive locations
 
@@ -91,10 +98,5 @@ For example:
 
 If any of the zone names are unknown (missing), write "Unknown". For example, "Unknown / Clinton East". 
 
+![img](https://github.com/gialkady/de_zoomcamp/blob/main/Homeworks/HW1/images/Question%206.%20Most%20expensive%20locations.png)
 
-## Submitting the solutions
-
-* Form for submitting: https://forms.gle/yGQrkgRdVbiFs8Vd7
-* You can submit your homework multiple times. In this case, only the last submission will be used. 
-
-Deadline: 24 January, 17:00 CET
