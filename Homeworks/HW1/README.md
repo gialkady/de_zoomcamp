@@ -85,6 +85,8 @@ Enter the zone name (not id). If the zone name is unknown (missing), write "Unkn
 
 ![img](https://github.com/gialkady/de_zoomcamp/blob/main/Homeworks/HW1/images/Question%205.%20Most%20popular%20destination.png)
 
+**Answer** = Upper East Side South
+
 ## Question 6. Most expensive locations
 
 What's the pickup-dropoff pair with the largest 
@@ -100,3 +102,4 @@ If any of the zone names are unknown (missing), write "Unknown". For example, "U
 
 ![img](https://github.com/gialkady/de_zoomcamp/blob/main/Homeworks/HW1/images/Question%206.%20Most%20expensive%20locations.png)
 
+**Answer** = central park/ Upper East Side North
