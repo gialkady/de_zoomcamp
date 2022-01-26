@@ -19,7 +19,6 @@ Create an account in Google Cloud and create a project.
 - Project number:280442394302
 - Project ID:braided-hangout-339419
 
-![image](https://user-images.githubusercontent.com/41841713/151245915-d8bc880a-fb20-48ef-8051-ee885726554e.png)
 
 
 ## Question 2. Terraform 
