@@ -67,7 +67,7 @@ Before query execution this metadata needs to be processed.
 
 **Answer:**
 
-**- improvements** ✅
+**- No improvements** ✅
 
 **- Can be worse due to metadata** ✅
 
