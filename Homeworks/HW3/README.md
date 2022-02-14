@@ -9,7 +9,9 @@ Can load the data for cloud storage and run a count(*)
 
 **Answer: 42084899** ✅
 
-**SQL Query** ➡️  SELECT COUNT(1) FROM `braided-hangout-339419.trips_data_all.fhv_tripdata` 
+**SQL Query** ⬇️  
+
+SELECT COUNT(1) FROM `braided-hangout-339419.trips_data_all.fhv_tripdata` 
 
 ### Question 2: 
 **How many distinct dispatching_base_num we have in fhv for 2019**  
