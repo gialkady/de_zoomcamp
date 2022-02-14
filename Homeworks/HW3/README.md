@@ -7,11 +7,15 @@ We will use all the knowledge learned in this week. Please answer your questions
 **What is count for fhv vehicles data for year 2019**  
 Can load the data for cloud storage and run a count(*)
 
-**Answer: 42084899**
+**Answer: 42084899** ✅
+
+**SQL Query** ➡️ SELECT COUNT(1) FROM `braided-hangout-339419.trips_data_all.fhv_tripdata` 
 
 ### Question 2: 
 **How many distinct dispatching_base_num we have in fhv for 2019**  
 Can run a distinct query on the table from question 1
+
+**Answer: 42084899** ✅
 
 ### Question 3: 
 **Best strategy to optimise if query always filter by dropoff_datetime and order by dispatching_base_num**  
